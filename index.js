@@ -10,8 +10,10 @@ function whisper (string)
 
 function logShout (string)
 {
-  console.log(
+  console.log()
 }
+
+
 
 describe('logShout(string)', function() {
   it('calls console.log() its one argument in all caps', function() {
